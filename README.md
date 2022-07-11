@@ -1,10 +1,6 @@
 <h2>Hi 👋, I'm Jakub</h2>
 
-<h3>A passionate Comupter Science student, who wants to become a Software  Developer </h3>
 
-- 🔭 I’m currently working on [Stocks Info](https://github.com/jgulinski/StocksInfo)
-
-- 🌱 I’m currently learning **Java and .NET**
 
 - 📫 How to reach me **gulinskijakub@gmail.com**
 
